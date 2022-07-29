@@ -1,1 +1,1 @@
-# Web-Learn-blogs
+# blogs
